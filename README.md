@@ -1,10 +1,8 @@
 ### Introduce
-
 Hi! I'm Thanh Vy, though you might also know me as Via or Vivian. I am a final-year student studying Management Information Systems with a major in Data Science. As a data science student, I'm passionate about working with data, particularly in data cleaning and visualization. Beyond data, I enjoy exploring nature, admiring beautiful landscapes and traveling.
 These are some notable projects I have completed:
-
 ### Project
-#### ![1.Internship](https://github.com/ViaThanh/1-Profile/blob/058b87ddc67f5ba8d048d5dc754f7ef1cc7d2dfb/B%C3%A1o_C%C3%A1o_Th%E1%BB%B1c_T%E1%BA%ADp_Nguy%E1%BB%85n%20Thanh%20Vy.pdf)
+#### [1.Internship](https://github.com/ViaThanh/1-Profile/blob/058b87ddc67f5ba8d048d5dc754f7ef1cc7d2dfb/B%C3%A1o_C%C3%A1o_Th%E1%BB%B1c_T%E1%BA%ADp_Nguy%E1%BB%85n%20Thanh%20Vy.pdf)
 TOOLs: SSMS (SQL Server Management Studio), Python - Jupyter Notebook, Power BI
 **SQL:**
 SQL was used to analyze competitor data, leveraging Jupyter Notebook to optimize query speed and efficiently connect with Python. Key analyses performed included:
@@ -25,9 +23,9 @@ Power BI was used to build a visual reporting dashboard for project opportunitie
 * Data Visualization: Creating a flexible dashboard capable of handling large datasets, with an easy-to-read and understand interface. This dashboard includes charts displaying project sales data in both aggregated (vertical) and monthly (horizontal) formats.
 * Utilizing Advanced Features: Applying unpivot columns to convert monthly sales data from a horizontal to a vertical format and using calculation groups to effectively manage key performance indicators (KPIs).
 **Dashboard**
-![Report](https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png)
+[Report](https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png)
 
-#### ![2.Superstore Sales Data Cleaning and Analysis with SQL](https://github.com/ViaThanh/2-Sales-Data-Cleaning-and-Analysis-with-SQL/blob/e2937726a540d61026bda0c486c1743b3e478a44/Store%20Sales%20Analysis%20with%20SQL.ipynb)
+#### [2.Superstore Sales Data Cleaning and Analysis with SQL](https://github.com/ViaThanh/2-Sales-Data-Cleaning-and-Analysis-with-SQL/blob/e2937726a540d61026bda0c486c1743b3e478a44/Store%20Sales%20Analysis%20with%20SQL.ipynb)
 TOOLs: SSMS (SQL Server Management Studio)
 This report outlines the data cleaning and analysis process performed on a superstore's sales data using SSMS, with the primary goal of gaining a deeper understanding of business performance by analyzing sales trends, customer behavior and the effectiveness of different product lines.
 * **Data Cleaning:**
@@ -42,7 +40,7 @@ This report outlines the data cleaning and analysis process performed on a super
     * Products: Identified the top-selling products based on Total Sales and analyzed the Category Contribution to Sales over the years.
     * Customer Churn Rate: Calculated the Customer Churn Rate, identified high-value customers who have stopped making purchases, analyzed the churn rate across different customer segments and investigated potential factors related to customer churn, such as purchased product categories, ship mode and delivery time.
 
-#### ![3.Netflix Users Behaviours Analysis](https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis/blob/170d32d073eab24e74f3d7fbed8ba9419b924b83/Netflix_Users_Behaviour_Analysis.ipynb)
+#### [3.Netflix Users Behaviours Analysis](https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis/blob/170d32d073eab24e74f3d7fbed8ba9419b924b83/Netflix_Users_Behaviour_Analysis.ipynb)
 TOOLs: Python - Jupyter Notebook
 This report outlines the data analysis process performed on a Netflix Users Behaviours dataset, with the primary goal of gaining actionable insights into user demographics, behavior and revenue generation.
 **Data Analysis:**
@@ -60,7 +58,7 @@ Revenue Analysis:
 Plan Duration Analysis:
 * Investigated how subscription duration affects total revenue, identifying whether longer plans lead to higher earnings.
 
-#### ![4.Data Preprocessing and Investment Opportunity Analysis - EDA](https://github.com/ViaThanh/4-Data-Preprocessing-and-Investment-Opportunity-Analysis/blob/e2fc02d46ba2ce3b219b48873ac74ad7eb253f7c/EDA_PTTCDN.ipynb)
+#### [4.Data Preprocessing and Investment Opportunity Analysis - EDA](https://github.com/ViaThanh/4-Data-Preprocessing-and-Investment-Opportunity-Analysis/blob/e2fc02d46ba2ce3b219b48873ac74ad7eb253f7c/EDA_PTTCDN.ipynb)
 TOOLs: Python - Jupyter Notebook, Power BI
 - The data consists of 03 files: rounds2.csv, mapping.csv and companies.txt.
 **Data Preprocessing and Analysis:**
@@ -77,4 +75,4 @@ In this project, we conducted a study using Exploratory Data Analysis (EDA) to a
 + Country Analysis: The United States emerges as the leading country for investment activities, with the highest number of funding rounds and total investment amounts. 
 + Sector Analysis: The sectors with the most significant investment activities include 'Others,' 'Cleantech/Semiconductors,' and 'Social, Finance, Analytics and Advertising.'
 **Dashboard**
-![Report](https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png)
+[Report](https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png)
