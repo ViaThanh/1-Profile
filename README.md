@@ -5,6 +5,7 @@ These are some notable projects I have completed:
 #### [1.Internship](https://github.com/ViaThanh/1-Profile/blob/058b87ddc67f5ba8d048d5dc754f7ef1cc7d2dfb/B%C3%A1o_C%C3%A1o_Th%E1%BB%B1c_T%E1%BA%ADp_Nguy%E1%BB%85n%20Thanh%20Vy.pdf)
 TOOLs: SSMS (SQL Server Management Studio), Python - Jupyter Notebook, Power BI
 * **SQL:**
+  
 SQL was used to analyze competitor data, leveraging Jupyter Notebook to optimize query speed and efficiently connect with Python. Key analyses performed included:
 * Evaluating financial performance by identifying leading companies in terms of ROE, ROA, ROS and growth.
 * Analyzing the highest growth rate and calculating the annual profit growth rate.
