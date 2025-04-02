@@ -50,6 +50,6 @@ The data consists of 03 files: rounds2.csv, mapping.csv and companies.txt.
 Exploratory Data Analysis (EDA) identified Venture as the most suitable investment type, the United States as the leading country for investment, and 'Others,' 'Cleantech/Semiconductors,' and 'Social, Finance, Analytics and Advertising' as the sectors with the most significant investment activity.
 
 * **Dashboard**
-<p align="center">
-  <img src="https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png" height="300">
+<p align="left">
+  <img src="https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png" height="250">
 </p>
