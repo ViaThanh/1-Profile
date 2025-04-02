@@ -71,7 +71,8 @@ In this project, we conducted a study using Exploratory Data Analysis (EDA) to a
     + Country Analysis: The United States emerges as the leading country for investment activities, with the highest number of funding rounds and total investment amounts. 
     + Sector Analysis: The sectors with the most significant investment activities include 'Others,' 'Cleantech/Semiconductors,' and 'Social, Finance, Analytics and Advertising.'
 * **Dashboard**
-![Report](https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png)
+<img src="https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png" width="400">
+
 
 ### Introduce
 Hi! I'm Thanh Vy, also known as Via or Vivian. I am a final-year Management Information Systems student majoring in Data Science. I'm passionate about working with data, particularly in data cleaning and visualization. Beyond data, I enjoy exploring nature, admiring beautiful landscapes, and traveling.
