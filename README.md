@@ -10,7 +10,11 @@ Key analyses performed SQL: Analyzed competitor data using SQL (optimized with J
 * **Power BI:** Developed a visual dashboard for project opportunities based on Python-processed data.
 This involved loading and transforming data, creating dimension tables, visualizing aggregated and monthly sales data in a user-friendly interface, and utilizing advanced features like unpivot columns and calculation groups for KPIs.
 * **Dashboard**
-
+<p align="center">
+  <img src="https://github.com/ViaThanh/1-Projects-Introduction/blob/main/Dashboard/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-04-02%20234523.png" weight="300">
+    <img src="https://github.com/ViaThanh/1-Projects-Introduction/blob/main/Dashboard/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-04-02%20234609.png" weight="300">
+    <img src="https://github.com/ViaThanh/1-Projects-Introduction/blob/main/Dashboard/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-04-02%20234641.png" weight="300">
+</p>
 
 
 #### [2.Superstore Sales Data Cleaning and Analysis with SQL](https://github.com/ViaThanh/2-Sales-Data-Cleaning-and-Analysis-with-SQL/blob/e2937726a540d61026bda0c486c1743b3e478a44/Store%20Sales%20Analysis%20with%20SQL.ipynb)
