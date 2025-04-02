@@ -20,7 +20,7 @@ TOOLs: SSMS (SQL Server Management Studio), Python + Jupyter Notebook, Power BI 
     + Data Visualization: Creating a flexible dashboard capable of handling large datasets, with an easy-to-read and understand interface. This dashboard includes charts displaying project sales data in both aggregated (vertical) and monthly (horizontal) formats.
     + Utilizing Advanced Features: Applying unpivot columns to convert monthly sales data from a horizontal to a vertical format and using calculation groups to effectively manage key performance indicators (KPIs).
 * **Dashboard**
-![Report](https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png)
+<img src="https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png" width="300" >
 
 #### [2.Superstore Sales Data Cleaning and Analysis with SQL](https://github.com/ViaThanh/2-Sales-Data-Cleaning-and-Analysis-with-SQL/blob/e2937726a540d61026bda0c486c1743b3e478a44/Store%20Sales%20Analysis%20with%20SQL.ipynb)
 TOOLs: SSMS (SQL Server Management Studio) . 
@@ -73,11 +73,6 @@ In this project, we conducted a study using Exploratory Data Analysis (EDA) to a
 * **Dashboard**
 <img src="https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png" width="400">
 
-
-### Introduce
-Hi! I'm Thanh Vy, also known as Via or Vivian. I am a final-year Management Information Systems student majoring in Data Science. I'm passionate about working with data, particularly in data cleaning and visualization. Beyond data, I enjoy exploring nature, admiring beautiful landscapes, and traveling.
-
-### Project
 
 - **[1. Internship](https://github.com/ViaThanh/1-Profile/blob/058b87ddc67f5ba8d048d5dc754f7ef1cc7d2dfb/B%C3%A1o_C%C3%A1o_Th%E1%BB%B1c_T%E1%BA%ADp_Nguy%E1%BB%85n%20Thanh%20Vy.pdf)**
   - **Tools:** SQL, Python, Power BI  
