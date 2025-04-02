@@ -20,7 +20,10 @@ TOOLs: SSMS (SQL Server Management Studio), Python + Jupyter Notebook, Power BI 
     + Data Visualization: Creating a flexible dashboard capable of handling large datasets, with an easy-to-read and understand interface. This dashboard includes charts displaying project sales data in both aggregated (vertical) and monthly (horizontal) formats.
     + Utilizing Advanced Features: Applying unpivot columns to convert monthly sales data from a horizontal to a vertical format and using calculation groups to effectively manage key performance indicators (KPIs).
 * **Dashboard**
-<img src="https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png" width="300" >
+<p align="center">
+  <img src="https://github.com/ViaThanh/Project_Investment_Opportunity_Analysis_Vietnamese/blob/52ab957a1a861f6af67a521d6b4368a0918094bd/IOA_EDA.png" height="300">
+</p>
+
 
 #### [2.Superstore Sales Data Cleaning and Analysis with SQL](https://github.com/ViaThanh/2-Sales-Data-Cleaning-and-Analysis-with-SQL/blob/e2937726a540d61026bda0c486c1743b3e478a44/Store%20Sales%20Analysis%20with%20SQL.ipynb)
 TOOLs: SSMS (SQL Server Management Studio) . 
