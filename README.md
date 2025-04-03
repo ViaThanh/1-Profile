@@ -10,7 +10,7 @@ Key analyses performed SQL: Analyzed competitor data using SQL (optimized with J
 * **Power BI:** Developed a visual dashboard for project opportunities based on Python-processed data.
 This involved loading and transforming data, creating dimension tables, visualizing aggregated and monthly sales data in a user-friendly interface, and utilizing advanced features like unpivot columns and calculation groups for KPIs.
 * **Dashboard**
-<p align="center">
+<p align="left">
   <img src="https://github.com/ViaThanh/1-Projects-Introduction/blob/main/Dashboard/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-04-02%20234523.png" height="200">
     <img src="https://github.com/ViaThanh/1-Projects-Introduction/blob/main/Dashboard/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-04-02%20234609.png" height="200">
     <img src="https://github.com/ViaThanh/1-Projects-Introduction/blob/main/Dashboard/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-04-02%20234641.png" height="200">
